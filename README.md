@@ -9,8 +9,6 @@ Buat Sebuah *API* untuk aplikasi TODO. <br>
     - merepresentasikan penggunaan relation `hasManyThrough`:15
     - merepresentasikan penggunaan relation Polymorphic Relationship `morphMany`:17 atau `morphToMany`:20
 - Menggunakan Job(Queue), `dispatchNow`:20 atau `dispatch`:20 pada proses bisnis, misal: `CreateNewTodoForShowLater`
-- Menggunakan [Laravel Actions](https://laravelactions.com/) :20
-- Menggunakan [Laravel HashId](https://github.com/veelasky/laravel-hashid) :27
 - Membuat Feature Test:(5 / single method test)
 
 ### MVP : 
