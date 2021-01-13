@@ -3,13 +3,13 @@ TRAWLBENS WEB DEVELOPER RECRUITMENT
 Buat Sebuah *API* untuk aplikasi TODO. <br>
 
 ### Penilaian :
-- Login dan Register:20
-- Menggunakan Eloquent Model:20
-    - merepresentasikan penggunaan relation `belongsToMany`:10
-    - merepresentasikan penggunaan relation `hasManyThrough`:15
-    - merepresentasikan penggunaan relation Polymorphic Relationship `morphMany`:17 atau `morphToMany`:20
-- Menggunakan Job(Queue), `dispatchNow`:20 atau `dispatch`:20 pada proses bisnis, misal: `CreateNewTodoForShowLater`
-- Membuat Feature Test:(5 / single method test)
+- Login dan Register
+- Menggunakan Eloquent Model
+    - merepresentasikan penggunaan relation `belongsToMany`
+    - merepresentasikan penggunaan relation `hasManyThrough`
+    - merepresentasikan penggunaan relation Polymorphic Relationship `morphMany` atau `morphToMany`
+- Menggunakan Job(Queue), `dispatchNow` atau `dispatch` pada proses bisnis, misal: `CreateNewTodoForShowLater`
+- Membuat Feature Test
 
 ### MVP : 
 - Ada api untuk login
