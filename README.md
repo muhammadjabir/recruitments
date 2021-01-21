@@ -21,7 +21,5 @@ Buat Sebuah *API* untuk aplikasi TODO. <br>
 ### Cara Pengerjaan : 
 - fork repo ini
 - kerjakan di repo forking anda
-- buat _pull request_
-
 
 ![](https://media.giphy.com/media/ieUnS3iEokPahZAZj6/giphy.gif) 
